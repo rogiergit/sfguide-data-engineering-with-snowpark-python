@@ -79,3 +79,6 @@ if __name__ == "__main__":
 #    validate_raw_tables(session)
 
     session.close()
+
+
+#C:/Users/rogie/.conda/envs/snowparkpython/python.exe  D:/\OneDrive/Work/Snowflake/sfguide-data-engineering-with-snowpark-python/sfguide-data-engineering-with-snowpark-python/steps/02_load_raw.py
